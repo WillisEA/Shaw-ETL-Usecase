@@ -10,6 +10,12 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>jobs/process/elt_load_aggr_fact_step2_edm134_0.1</module>
+    <module>jobs/process/oracletosnowflake_edm146_0.1</module>
+    <module>jobs/process/elt_load_facts_step1_edm134_0.1</module>
+    <module>jobs/process/etl_scd1_edm163_0.1</module>
+    <module>jobs/process/etl_lookup_0.1</module>
+    <module>jobs/process/etl_scd2_edm163_0.1</module>
   </modules>
   <properties>
     <talend.project.name>SHAWDEMO</talend.project.name>
